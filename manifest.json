@@ -1,0 +1,79 @@
+{
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "forge-47.1.0",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Colonial Frontiers",
+  "version": "0.1.0",
+  "author": "",
+  "files": [
+    {
+      "projectID": 317780,
+      "fileID": 4594991,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 4609866,
+      "required": true
+    },
+    {
+      "projectID": 522992,
+      "fileID": 4584032,
+      "required": true
+    },
+    {
+      "projectID": 263420,
+      "fileID": 4593190,
+      "required": true
+    },
+    {
+      "projectID": 245506,
+      "fileID": 4632858,
+      "required": true
+    },
+    {
+      "projectID": 282001,
+      "fileID": 4631334,
+      "required": true
+    },
+    {
+      "projectID": 303278,
+      "fileID": 4631200,
+      "required": true
+    },
+    {
+      "projectID": 328085,
+      "fileID": 4626108,
+      "required": true
+    },
+    {
+      "projectID": 527361,
+      "fileID": 4628730,
+      "required": true
+    },
+    {
+      "projectID": 298744,
+      "fileID": 4643743,
+      "required": true
+    },
+    {
+      "projectID": 268495,
+      "fileID": 4582922,
+      "required": true
+    },
+    {
+      "projectID": 291874,
+      "fileID": 4611121,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
